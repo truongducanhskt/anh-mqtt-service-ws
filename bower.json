@@ -1,0 +1,20 @@
+{
+  "name": "anh-mqtt-browser-ws",
+  "homepage": "https://github.com/truongducanhskt/anh-mqtt-service-ws",
+  "authors": [
+    "anh-mqtt-browser-ws"
+  ],
+  "description": "anh-mqtt-browser-ws",
+  "main": "anh-mqtt-browser-ws",
+  "keywords": [
+    "anh-mqtt-browser-ws"
+  ],
+  "license": "*",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
